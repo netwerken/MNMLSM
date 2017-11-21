@@ -5,7 +5,7 @@ author: "Paul Le"
 categories: documentation
 tags: [documentation,sample]
 image:
-  feature: dancinginthedeep.jpg
+  feature: nature-1.jpg
   
 ---
 
