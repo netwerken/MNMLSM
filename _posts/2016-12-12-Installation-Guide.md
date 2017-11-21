@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Installation Guide"
+title: "DANCING IN THE DEEP"
 author: "Paul Le"
 categories: documentation
 tags: [documentation,sample]
