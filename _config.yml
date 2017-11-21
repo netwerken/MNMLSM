@@ -13,7 +13,7 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Milliëns | Event Management"
+title:		           "Milliëns Event Management"
 description:	       "Exceeding your expectations"
 author:              "Swiss"
 
