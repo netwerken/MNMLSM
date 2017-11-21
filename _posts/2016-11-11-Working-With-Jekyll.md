@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Working With Jekyll"
+title: "RAVING ON THE ROCKS"
 author: "Paul Le"
 categories: documentation
 tags: [documentation,sample]
 image:
-  feature: arctic-1.jpg
+  feature: nature-1.jpg
 ---
 
 ### Posts
