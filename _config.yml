@@ -13,8 +13,8 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Milliëns Event Management"
-description:	       "Exceeding your expectations"
+title:		           "Minimalists"
+description:	       "Nothing more, nothing less."
 author:              "Swiss"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
